@@ -1,1 +1,25 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+div#wall #tag-2 {
+    display: none;
+}
+body div#wall #tag-3.slick {
+    display: none;
+}
+
+body div.parent {
+    display: none;
+}
+  
+
+
+
+
+
+/*All graffiti has been removed/*
+/*All graffiti has been removed/*
+/*All graffiti has been removed/*
+/*All graffiti has been removed/*
+/*All graffiti has been removed/*
+/*All graffiti has been removed/*
